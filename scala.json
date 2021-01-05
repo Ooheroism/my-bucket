@@ -4,7 +4,7 @@
     "version": "2.11.8",
     "license": "BSD-3-Clause",
     "url": "https://downloads.typesafe.com/scala/2.11.8/scala-2.11.8.zip",
-    "hash": "35ac25f74a1dd6fd5f18234f73988eb58b703da0d6cc9f2d40967856067ef0c9",
+    "hash": "40dc5d92444d6b0e06f751adb4f100faaf8f849be6806c922c88909d8474eefa",
     "extract_dir": "scala-2.11.8",
     "bin": [
         "bin\\fsc.bat",
